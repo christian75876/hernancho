@@ -1,0 +1,85 @@
+{
+    "usuarios": [
+      {
+        "ID": 1,
+        "nombre": "Juan Perez",
+        "puntos_acumulados": 350,
+        "datetime_login": "2024-05-10T08:00:00",
+        "datetime_logout": "2024-05-10T17:00:00",
+        "cursos_completados": ["Curso A", "Curso B", "Curso C"]
+      },
+      {
+        "ID": 2,
+        "nombre": "María López",
+        "puntos_acumulados": 420,
+        "datetime_login": "2024-05-10T08:30:00",
+        "datetime_logout": "2024-05-10T16:30:00",
+        "cursos_completados": ["Curso B", "Curso D"]
+      },
+      {
+        "ID": 3,
+        "nombre": "Carlos García",
+        "puntos_acumulados": 280,
+        "datetime_login": "2024-05-10T09:15:00",
+        "datetime_logout": "2024-05-10T18:00:00",
+        "cursos_completados": ["Curso A", "Curso C"]
+      },
+      {
+        "ID": 4,
+        "nombre": "Ana Martínez",
+        "puntos_acumulados": 500,
+        "datetime_login": "2024-05-10T07:45:00",
+        "datetime_logout": "2024-05-10T17:45:00",
+        "cursos_completados": ["Curso A", "Curso B", "Curso D"]
+      },
+      {
+        "ID": 5,
+        "nombre": "Pedro Rodríguez",
+        "puntos_acumulados": 600,
+        "datetime_login": "2024-05-10T08:20:00",
+        "datetime_logout": "2024-05-10T16:20:00",
+        "cursos_completados": ["Curso B", "Curso C", "Curso D"]
+      },
+      {
+        "ID": 6,
+        "nombre": "Sofía Pérez",
+        "puntos_acumulados": 370,
+        "datetime_login": "2024-05-10T08:45:00",
+        "datetime_logout": "2024-05-10T17:30:00",
+        "cursos_completados": ["Curso A", "Curso D"]
+      },
+      {
+        "ID": 7,
+        "nombre": "Luisa González",
+        "puntos_acumulados": 320,
+        "datetime_login": "2024-05-10T09:00:00",
+        "datetime_logout": "2024-05-10T16:45:00",
+        "cursos_completados": ["Curso B", "Curso C"]
+      },
+      {
+        "ID": 8,
+        "nombre": "Javier Fernández",
+        "puntos_acumulados": 450,
+        "datetime_login": "2024-05-10T07:30:00",
+        "datetime_logout": "2024-05-10T17:15:00",
+        "cursos_completados": ["Curso A", "Curso D"]
+      },
+      {
+        "ID": 9,
+        "nombre": "Elena Sánchez",
+        "puntos_acumulados": 390,
+        "datetime_login": "2024-05-10T08:10:00",
+        "datetime_logout": "2024-05-10T18:00:00",
+        "cursos_completados": ["Curso A", "Curso B", "Curso C"]
+      },
+      {
+        "ID": 10,
+        "nombre": "Miguel Ramírez",
+        "puntos_acumulados": 480,
+        "datetime_login": "2024-05-10T08:30:00",
+        "datetime_logout": "2024-05-10T17:30:00",
+        "cursos_completados": ["Curso B", "Curso D"]
+      }
+    ]
+  }
+  
